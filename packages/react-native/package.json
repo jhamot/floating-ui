@@ -48,7 +48,7 @@
     "react-native": ">=0.64.0"
   },
   "dependencies": {
-    "@floating-ui/core": "^0.1.0"
+    "@floating-ui/core": "^0.7.3"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
